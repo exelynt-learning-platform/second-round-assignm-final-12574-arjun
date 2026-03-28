@@ -59,7 +59,7 @@ This project is a backend implementation of a simple E-commerce platform built u
 
 ##  Tech Stack
 
-- Java 17
+- Java 25
 - Spring Boot
 - Spring Security
 - JWT Authentication
@@ -68,6 +68,3 @@ This project is a backend implementation of a simple E-commerce platform built u
 - Stripe API
 - Lombok
 
----
-
-##  Project Structure
